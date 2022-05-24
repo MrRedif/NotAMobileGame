@@ -1,7 +1,7 @@
 # assignment01-MrRedif
 assignment01-MrRedif created by GitHub Classroom
 
-## Ali Emre Küçükkurt Ruby Game Studio Case Test
+## Ali Emre Küçükkurt
 
 ### -3 gün sürecinde geliştirildi
 ### -LeanTween ve Cinemachine paketleri kullanıldı
